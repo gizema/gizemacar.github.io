@@ -80,17 +80,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #ffd27f;
+  background: #b30838;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #ffd27f;
+  background: #b30838;
 }
 
 ::selection {
   color: #fff;
-  background: #ffd27f;
+  background: #b30838;
 }
 
 #fh5co-header,
@@ -231,7 +231,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-features {
-  background: #ffd27f;
+  background: #b30838;
 }
 #fh5co-features h2 {
   color: #fff;
@@ -266,7 +266,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: table-cell;
   vertical-align: middle;
   height: 100px;
-  color: #ffd27f !important;
+  color: #b30838 !important;
 }
 #fh5co-features .feature-left .feature-copy {
   width: 100%;
@@ -317,7 +317,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-bg-dark {
   background: #2F3C4F;
-  background: #ffd27f;
+  background: #b30838;
 }
 .fh5co-bg-dark .fh5co-heading h2 {
   color: #fff !important;
@@ -374,7 +374,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #ffd27f;
+  color: #b30838;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -411,7 +411,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 20px;
 }
 #fh5co-about .fh5co-social-icons li a:hover {
-  background: #ffd27f;
+  background: #b30838;
 }
 
 .fh5co-heading {
@@ -541,7 +541,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 40px;
   left: 50%;
   margin-left: -21px;
-  background-color: #ffd27f;
+  background-color: #b30838;
   z-index: 100;
   display: table;
   -webkit-border-radius: 50%;
@@ -810,7 +810,7 @@ h1, h2, h3, h4, h5, h6, figure {
   height: 54px;
   border: none !important;
   background: #fff;
-  color: #ffd27f;
+  color: #b30838;
   font-size: 16px;
   text-transform: uppercase;
   font-weight: 400;
@@ -1120,9 +1120,9 @@ input[type="text"] {
 }
 
 .btn-primary {
-  background: #ffd27f;
+  background: #b30838;
   color: #fff;
-  border: 2px solid #ffd27f;
+  border: 2px solid #b30838;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #ff9b1a !important;
@@ -1130,11 +1130,11 @@ input[type="text"] {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #ffd27f;
-  border: 2px solid #ffd27f;
+  color: #b30838;
+  border: 2px solid #b30838;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #ffd27f;
+  background: #b30838;
   color: #fff;
 }
 
@@ -1264,7 +1264,7 @@ input[type="text"] {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #ffd27f;
+  border-color: #b30838;
 }
 
 .row-pb-md {
